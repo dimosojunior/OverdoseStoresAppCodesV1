@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Overdose-Stores",
+    "slug": "Overdose-Stores",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/pp2.png",
+    "userInterfaceStyle": "Light",
+    "splash": {
+      "image": "./assets/splashe.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "versionCode": 1,
+      "package": "com.dimosojr.OverdoseStores",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/pp2.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/pp2.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "62862935-3a6d-429a-bc96-841d6968e59f"
+      }
+    }
+  }
+}
